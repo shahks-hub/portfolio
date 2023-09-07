@@ -12,7 +12,7 @@ const introdata = {
         third: "I garden and hike",
     },
     description: "Welcome to my website! Explore my portfolio showcasing the projects I've passionately crafted. My journey of continuous learning drives me to refine and enhance my work with each passing day. Dive in and discover my creative journey!",
-    your_img_url:  "https://lh3.googleusercontent.com/pw/AIL4fc8PtvPu5feIbxuwX1PD01jYhqxKLkHgOJJdJDZdLv4CP-u95mxLU8U-fizew6dbbXTZIHVLscjhWrnQ7P-pRv7WdZmstOA4akrAB-pLtaMBWmpfkd8C2LsBwtPlx8oAMKQEiv89jErRxu35BWuSBj57NxhJzG9fOUfB34qj5S0U9vrBI89VNcz5vEHA6_OCl5CD2xzbRYpUXS7E1P-zZF7qjN-3YJb9cSzA9hYZloEOVBj8ELdQUghy2nFPGlJzk4qWGWTsIfZNU4Vq6EWJXPhQtYZUCa-TSRjajT8sXwYK5WVYt6h6bm1CSBaQArMb4yewr0Z60yrVTMFSLE0xU-4bHQpu8i_s7QaZ9_EDPNLRnhyazMS0sSHGSevKq04sjr6-58uEw3xE9VDLV9Z2cZ7aDiEY_lnG_ihDTv3djIUx_Ik96snIgidR6pTo7aINVWLfu6Hxm8z8mN1ZPNod7dMF35ohY1B35VWM8k4w7RmIIND32Wnc8PSsePYtjlnXTWT7pEKBVQtpX12u9dCi9ioBZq3q3_PquoHAu4pKFDsF1EuqirXu-wdVpA5IGB2BUiDYuLEQEVmar3VfEFPyKGv-5tnGFtU79sZqgIreP2u9pln52QSE3ZzeY-_R-DMll39YRn6iUbvYT7zrShASDzN8Rzkr4lkrPPykE1KA0vYLBrj3ARxPGi7Qufaer6RNJ3xJ3z5XFrrd_LYMsrTmQ2BcRZ9IVwJibgAL0FqC2MGI7TWNgBsS5fxzyE84rmf3h_12A1dIXYGX5kB4b7keQK2P5c0DiZQPfw1i2cSQYDw7CyhaMpFYKEEH9BaYA4_atbHigiL1-_e2WNx_cqOC5f8ZynykRAQAmjLpcPnTlgt5Xg7mhZv06K4GVOyz7yASgrr-K3TmDPRgzBCOA2wLft_AF1Vae7JDLCwq_wGst7Nosv0lDyAh_h_0BCQx=w1600-h1200-s-no?authuser=0",
+    your_img_url:  "https://i.imgur.com/7knaPyx.png",
 };
 
 const dataabout = {
@@ -118,7 +118,7 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://lh3.googleusercontent.com/pw/AIL4fc-31YbqCLix700nxOtnnHsh294bymKFHMqphyM5BAr2f7x4uUmVIsHoWWnnFiJ1cp4ovrGeRneIskoUkgmFvPschpmGiQPVirVwDPJH_SchtCKyGwEbIS4iKSleuRwUXDj29OfZA5Tz4K8fDuSzzZTzFMZyOBoF3dXBTR7PBuaMBWybQHto-tUL9PlqnQGQoit3RgdQ86NHhVjK2U8gxrpJiWMFhLnBHvwjrFpldiAobHmR5PpjMUHvPsWpCznp1uOv4mWyLwPXFbttetFtMMp4pP24gFbwaCJqJ_gq2ZOPEunKA_lVhNeXA7TjelhGi2IgHl00nRp3aWiCBkFfBkcmBdEZI7cjGyvMCHrKTrlO6ei1yHaMZQFD7PIiTsvT7LNNJgEWBSGeAWcaEAtFafzvStrwpzHFIoyv5DnxI5wbcwnv1nFMNUyNoPPmEVqA-8IoStN7LByAouBv0GJHI88zJ-4ZcCUmtg6wD-LxrFpSuh0PCoC_DvQNonHnKFS6J6WWmmjSZB0OD5_78oGg-DxRlZ0gr1aPL1LmnKtORRnITRMpxKEcuokKwYRIwTaT9WQ8V0yrjw3u3_68hnCYCbMI3pRPZery6zMo4LqxFQkf32aYuX9CqpS6-2tE4aIXoaTj7DkUeFWJkxhwmxqd-VEu_wMFO0w2nRNnHFatMam2-XQvVUy5kfXlO5jrAeoBBxMkLtko3GaEpBj1rILL9bemIcxtzUKxaEgRr6Exz6NsgqLK6sKgtowLb1GIdNIBhojj7u1c8kvUkCYYe8n0FDNaOfVB8WOX1C25G_6wHZWVmFgNBVk5mQajpxQTgNyZzw7eVzP9Thp5dQlYgdLxfJ6N88aeC-CAyftGscIv-16D-HEfdY2EUOcb_9ML4OlztK8XzoeUBSY0KqueNIPnBgZcG_Gj-UmTUQ0NkpyjffTTf1Tp24Wkk7rViGfe=w1960-h1114-s-no?authuser=0",
+        img: "https://i.imgur.com/FjbCEfj.png",
         description: "Currently: refining AI API to interact with the file contents, ability to upload multiple files and writing python code to perform data visualization and analysis ",
         link: "https://info-guru.vercel.app/homepage",
         github_link:"https://github.com/shahks-hub/InfoGuru",
