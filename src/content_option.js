@@ -24,11 +24,7 @@ const worktimeline = [{
         where: "CodeDay Labs",
         date: "June 2023 - August 2023",
     },
-    {
-        jobtitle: "G-SWEP fellowship",
-        where: "Basta",
-        date: "October 2023 - December 2023",
-    },
+  
    
     {
         jobtitle: "Tax Preparer Intern",
@@ -44,7 +40,7 @@ const worktimeline = [{
 
     },
     {
-        jobtitle: "Data Science student",
+        jobtitle: "Data Science fellow",
         where: "CUNY TechPrep",
         date: "September 2023 - December 2023",
     },
@@ -72,11 +68,11 @@ const skills = [{
         value: 70,
     },
     {
-        name: "AWS and Azure Cloud",
+        name: "Cloud: AWS, Azure, Firebase",
         value: 65,
     },
     {
-        name: "Databses postgres, prisma, mariadb, aws dynamodb , azure rds",
+        name: "Databases: Postgres, Prisma, Mariadb, AWS Dynamodb , Azure RDS",
         value: 85,
     },
     {
@@ -118,65 +114,62 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://i.imgur.com/FjbCEfj.png",
+        img: "https://images.unsplash.com/photo-1625314887424-9f190599bd56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
         description: "Currently: refining AI API to interact with the file contents, ability to upload multiple files and writing python code to perform data visualization and analysis ",
         link: "https://info-guru.vercel.app/homepage",
         github_link:"https://github.com/shahks-hub/InfoGuru",
     },
+   
+   
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.unsplash.com/photo-1580428354768-03a028646bc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
+        description: "Placeholder for Hunger Remedy Project",
         link: "#",
+        github_link:"https://github.com/shahks-hub/hunger-remedy2"
+
     },
+   
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1533421644343-45b606745fb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2864&q=80",
+        description: "Simple application to manage banking systems",
+        link: "https://shahks-hub.github.io/bank-of-react/",
+        github_link: "https://github.com/shahks-hub/bank-of-react"
     },
+
+    
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
+        description: "RoboKitty app demonstrating basic React",
+        link: "https://shahks-hub.github.io/RoboKittyFriends-using-REACT/",
+        github_link: "https://github.com/shahks-hub/RoboKittyFriends-using-REACT"
     },
 
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.unsplash.com/photo-1517568730816-501aae259c65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
+        description: "Placeholder for Flutter/Firebase Playfulingo App",
+        link: "#",
+        github_link: "https://github.com/shahks-hub/Playfulingo"
+    },
+    {
+        img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2626&q=80",
+        description: "Campus management system demonstrating basic CRUD app",
+        link: "#",
+        github_link: "https://github.com/shahks-hub/Campus_management"
+    },
+    {
+        img: "https://images.unsplash.com/photo-1523274620588-4c03146581a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2877&q=80",
+        description: "Fork from cunytechprep showing weekly exercises related to data science",
+        link: "#",
+        github_link: "https://github.com/shahks-hub/myfork-2023-fall-data-science-fridays"
+    },
+    {
+        img: "https://images.unsplash.com/photo-1589258977674-a5ecbaf96ff2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2484&q=80",
+        description: "Placeholder for upcoming Data science project",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        img: "https://images.unsplash.com/photo-1576857990591-aad2585f34d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
+        description: "Placeholder for any other project",
         link: "#",
     },
 ];
@@ -184,12 +177,12 @@ const dataportfolio = [{
 const contactConfig = {
     YOUR_EMAIL: "kasaf.shah28@gmail.com",
     YOUR_FONE: "513-593-2514",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: "send me a message with your suggestions for improvement, random life advice, work opportunities or just to say hi :)  ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_rq23pqt",
+    YOUR_TEMPLATE_ID: "template_kgz7z7d",
+    YOUR_USER_ID: "TUMs1dFD0i1cxAFg5",
 };
 
 const socialprofils = {
