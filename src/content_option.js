@@ -115,7 +115,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://images.unsplash.com/photo-1625314887424-9f190599bd56?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
-        description: "Currently: refining AI API to interact with the file contents, ability to upload multiple files and writing python code to perform data visualization and analysis ",
+        description: "InfoGuru: a simple website leveraging the openAI API to interact with an uploaded file. ",
         link: "https://info-guru.vercel.app/homepage",
         github_link:"https://github.com/shahks-hub/InfoGuru",
     },
@@ -158,14 +158,15 @@ const dataportfolio = [{
     },
     {
         img: "https://images.unsplash.com/photo-1523274620588-4c03146581a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2877&q=80",
-        description: "Fork from cunytechprep showing weekly exercises related to data science",
+        description: "Placeholder",
         link: "#",
-        github_link: "https://github.com/shahks-hub/myfork-2023-fall-data-science-fridays"
+        github_link: "#"
     },
     {
         img: "https://images.unsplash.com/photo-1589258977674-a5ecbaf96ff2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2484&q=80",
-        description: "Placeholder for upcoming Data science project",
-        link: "#",
+        description: "Careervana: A platform to visualize data trends related to current job markets using machine learning and AI to generate customized cover letters",
+        link: "https://careervana.streamlit.app/",
+        github_link: "https://github.com/shahks-hub/Career-vana"
     },
     {
         img: "https://images.unsplash.com/photo-1576857990591-aad2585f34d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
