@@ -121,21 +121,7 @@ const dataportfolio = [{
     },
    
    
-    {
-        img: "https://images.unsplash.com/photo-1580428354768-03a028646bc8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
-        description: "Placeholder for Hunger Remedy Project",
-        link: "#",
-        github_link:"https://github.com/shahks-hub/hunger-remedy2"
-
-    },
-   
-    {
-        img: "https://images.unsplash.com/photo-1533421644343-45b606745fb1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2864&q=80",
-        description: "Simple application to manage banking systems",
-        link: "https://shahks-hub.github.io/bank-of-react/",
-        github_link: "https://github.com/shahks-hub/bank-of-react"
-    },
-
+    
     
     {
         img: "https://images.unsplash.com/photo-1592194996308-7b43878e84a6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
@@ -145,34 +131,26 @@ const dataportfolio = [{
     },
 
     {
-        img: "https://images.unsplash.com/photo-1517568730816-501aae259c65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80",
-        description: "Placeholder for Flutter/Firebase Playfulingo App",
-        link: "#",
-        github_link: "https://github.com/shahks-hub/Playfulingo"
-    },
-    {
-        img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2626&q=80",
-        description: "Campus management system demonstrating basic CRUD app",
-        link: "#",
-        github_link: "https://github.com/shahks-hub/Campus_management"
-    },
-    {
-        img: "https://images.unsplash.com/photo-1523274620588-4c03146581a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2877&q=80",
-        description: "Placeholder",
-        link: "#",
-        github_link: "#"
-    },
-    {
-        img: "https://images.unsplash.com/photo-1589258977674-a5ecbaf96ff2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2484&q=80",
+        img: "https://images.unsplash.com/photo-1568062805092-0ff252dcac27?q=80&w=2235&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         description: "Careervana: A platform to visualize data trends related to current job markets using machine learning and AI to generate customized cover letters",
         link: "https://careervana.streamlit.app/",
         github_link: "https://github.com/shahks-hub/Career-vana"
     },
+
+
     {
-        img: "https://images.unsplash.com/photo-1576857990591-aad2585f34d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2787&q=80",
-        description: "Placeholder for any other project",
-        link: "#",
+        img: "https://images.unsplash.com/photo-1533236897111-3e94666b2edf?q=80&w=2488&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        description: "Playfulingo mobile app: Learn ASL through games.",
+        link: "https://www.youtube.com/watch?v=sBeg7dDgyn8&t=2s",
+        github_link: "https://github.com/shahks-hub/PlayfulingoProject"
     },
+
+    
+
+    
+   
+
+  
 ];
 
 const contactConfig = {
