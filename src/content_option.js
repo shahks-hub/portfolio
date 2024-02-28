@@ -1,7 +1,7 @@
 const logotext = "KASAF";
 const meta = {
     title: "Kasaf Shah",
-    description: "I'm Kasaf Shah, a senior at Hunter College, studying Computer Science. My fields on interest are Software Engineering, Web Development, Data Science and Cybersecurity",
+    description: "I'm Kasaf Shah, recent college grad, interested in Data science, mobile and web development and database management",
 };
 
 const introdata = {
@@ -44,11 +44,7 @@ const worktimeline = [{
         where: "CUNY TechPrep",
         date: "September 2023 - December 2023",
     },
-    {
-        jobtitle: "Cybersecurity tech fellow",
-        where: "Codepath",
-        date: "September 2023 - December 2023",
-    },
+   
 ];
 
 const skills = [{
@@ -60,36 +56,45 @@ const skills = [{
         value: 85,
     },
     {
-        name: "SQL and matplotlib",
-        value: 80,
+        name: "SQL ",
+        value: 90,
+    },
+    {
+        name: "Data visualization",
+        value: 90,
     },
     {
         name: "React",
-        value: 70,
+        value: 60,
     },
     {
         name: "Cloud: AWS, Azure, Firebase",
-        value: 65,
+        value: 85,
     },
     {
-        name: "Databases: Postgres, Prisma, Mariadb, AWS Dynamodb , Azure RDS",
+        name: "Database management",
         value: 85,
     },
     {
         name: "Next.js , Node.js",
-        value: 90,
+        value: 80,
     },
     {
         name: "OpenAI",
-        value: 70,
+        value: 80,
     },
     {
-        name: "Swift, Flutter",
-        value: 30,
+        name: "Flutter",
+        value: 70,
     },
     {
         name: "Javascript, Typescript",
         value: 70,
+
+    },
+    {
+        name: "Data science",
+        value: 95,
 
     },
 
@@ -101,12 +106,11 @@ const services = [{
     },
     {
         title: "Mobile Apps",
-        description: "At present, I'm enthusiastically engaged in honing my skills in mobile app development through the dynamic realms of Swift and Flutter.",
+        description: "Crafted a American Sign Language learning app with Flutter, blending fun and engagement seamlessly! ",
     },
     {
         title: "Data Science",
-        description: "In the midst of an exciting journey, mastering the art of data visualization with the potent tools of Python, Pandas, NumPy, and Matplotlib. Concurrently, I'm dedicated to further enhancing my expertise in the captivating field of data science.",
-    },
+        description: "From the art of data visualization with the potent tools of Python, Pandas, NumPy, and Matplotlib to data cleaning and extraction and training machine learning models.",},
     {
         title: "Software Engineering",
         description: "Proficiently, I've accumulated experience in writing advanced-level code in both C++ and Python, and am enthusiastic about exploring the field of software engineering.",
